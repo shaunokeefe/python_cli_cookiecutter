@@ -1,0 +1,12 @@
+# Compiled python code
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# setuptools data
+.eggs/
+build/
+delete_old_data.egg-info/
+dist/
